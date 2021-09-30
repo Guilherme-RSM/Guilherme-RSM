@@ -28,7 +28,7 @@ Saudações a toda a comunidade Dev.<br>
 Sou Guilherme Moreira, tenho 29 anos e a pouco tempo descobri o fascinio por esse vasto universo da programação.<br>
 Sempre achei muito interessante essa área de desenvolvimento mas nunca havia me envolvido.<br>
 Embora sempre admirei muito quem atua na área, eu nunca tinha ousado tentar aprender algo relacionado, <br>
-mas agora estou disposto a tentar.<br>
+mas agora estou disposto a me dedicar a essa carreira.<br>
 Sei o quanto terei que me comprometer com o constante aprendizado, mas isso é bom pois sempre me lamentei muito por todo tempo que perdi 
 na minha vida, protelando sobre oque eu queria ou iria fazer, e agora estou certo de que oque eu realmente quero é ser um Programador/Desenvolvedor Front-End. <br>
 Atualmente tenho apenas um pouco de conhecimento prévio do básico em HTML e CSS, mas quero continuar aprendendo e praticando dia após dia, e na medida que for assimilando e 
