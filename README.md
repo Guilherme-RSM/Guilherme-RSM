@@ -1,26 +1,4 @@
-<!--
-**Guilherme-RSM/Guilherme-RSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-(outras redes sociais)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/)
--->
-
 ![Guilherme-RSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-RSM&show_icons=true&theme=merko)
-
 
 ### Hello World 👋
 Saudações a toda a comunidade Dev.<br>
@@ -39,19 +17,19 @@ Jim Ryun
 
 
 
-<a href="https://www.linkedin.com/in/guilherme-rsm/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/guilherme-rsm/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://codepen.io/guilherme-rsm" alt="Codepen">
+  <a href="https://codepen.io/guilherme-rsm" alt="Codepen" target="_blank">
   <img src="https://img.shields.io/badge/-Codepen-000?style=flat-square&labelColor=000&logo=codepen&logoColor=white&link=LINK-DO-SEU-CODEPEN"/></a>
   
-  <a href="https://www.youtube.com/c/GuilhermeMoreira" alt="Youtube">
+  <a href="https://www.youtube.com/c/GuilhermeMoreira" alt="Youtube" target="_blank">
   <img src="https://img.shields.io/badge/-Youtube-e02b0f?style=flat-square&labelColor=e02b0f&logo=youtube&logoColor=white&link=LINK-DO-SEU-YOUTUBE"/></a>
 
-  <a href="https://www.facebook.com/guilhermemoreira1992" alt="Facebook">
+  <a href="https://www.facebook.com/guilhermemoreira1992" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/guilhermee.rsm" alt="Instagram">
+  <a href="https://www.instagram.com/guilhermee.rsm" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-c2506d?style=flat-square&labelColor=c2506d&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px">
