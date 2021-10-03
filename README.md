@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ![Guilherme-RSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-RSM&show_icons=true&theme=merko)
 
 
-
 ### Hello World 👋
 Saudações a toda a comunidade Dev.<br>
 Sou Guilherme Moreira, tenho 29 anos e a pouco tempo descobri o fascinio por esse vasto universo da programação.<br>
@@ -40,6 +39,20 @@ Jim Ryun
 
 
 
+<a href="https://www.linkedin.com/in/guilherme-rsm/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/guilhermee.moreiraa/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank">](https://www.facebook.com/guilhermemoreira1992)
+  <a href="https://codepen.io/guilherme-rsm" alt="Codepen">
+  <img src="https://img.shields.io/badge/-Codepen-000?style=flat-square&labelColor=000&logo=codepen&logoColor=white&link=LINK-DO-SEU-CODEPEN"/></a>
+  
+  <a href="https://www.youtube.com/c/GuilhermeMoreira" alt="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-e02b0f?style=flat-square&labelColor=e02b0f&logo=youtube&logoColor=white&link=LINK-DO-SEU-YOUTUBE"/></a>
+
+  <a href="https://www.facebook.com/guilhermemoreira1992" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="https://www.instagram.com/guilhermee.rsm" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-c2506d?style=flat-square&labelColor=c2506d&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px">
 
