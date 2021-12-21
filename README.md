@@ -6,9 +6,8 @@ Sou Guilherme Moreira, tenho 29 anos e a pouco tempo descobri o fascinio por ess
 Sempre achei muito interessante essa área de desenvolvimento mas nunca havia me envolvido.<br>
 Embora sempre admirei muito quem atua na área, eu nunca tinha ousado tentar aprender algo relacionado, <br>
 mas agora estou disposto a me dedicar a essa carreira.<br>
-Sei o quanto terei que me comprometer com o constante aprendizado, mas isso é bom pois sempre me lamentei muito por todo tempo que perdi 
-na minha vida, protelando sobre oque eu queria ou iria fazer, e agora estou certo de que oque eu realmente quero é ser um Programador/Desenvolvedor Front-End. <br>
-Atualmente tenho apenas um pouco de conhecimento prévio do básico em HTML e CSS, mas quero continuar aprendendo e praticando dia após dia, e na medida que for assimilando e 
+Sei o quanto terei que me comprometer com o constante aprendizado, mas isso é bom pois essa necessidade de se manter atualizado nos faz permanecer em constante evolução, e nos livra de ficar inertes.<br>
+Atualmente tenho apenas um pouco de conhecimento prévio do básico em HTML e CSS mas irei continuar aprendendo e praticando dia após dia e na medida que for assimilando e 
 fixando o conhecimento pretendo partir para novas tecnologias.
 
 “Motivação é aquilo que te faz começar. Hábito é aquilo que te faz continuar.”
