@@ -7,7 +7,7 @@ Sempre achei muito interessante essa área de desenvolvimento mas nunca havia me
 Embora sempre admirei muito quem atua na área, eu nunca tinha ousado tentar aprender algo relacionado, <br>
 mas agora estou disposto a me dedicar a essa carreira.<br>
 Sei o quanto terei que me comprometer com o constante aprendizado, mas isso é bom pois essa necessidade de se manter atualizado nos faz permanecer em constante evolução, e nos livra de ficar inertes.<br>
-Atualmente tenho apenas um pouco de conhecimento prévio do básico em HTML e CSS mas irei continuar aprendendo e praticando dia após dia e na medida que for assimilando e 
+Atualmente tenho apenas um pouco de conhecimento prévio do básico em HTML, CSS e JavaScript; mas irei continuar aprendendo e praticando dia após dia e na medida que for assimilando e 
 fixando o conhecimento pretendo partir para novas tecnologias.
 
 “Motivação é aquilo que te faz começar. Hábito é aquilo que te faz continuar.”
@@ -28,7 +28,7 @@ Jim Ryun
   <a href="https://www.facebook.com/guilhermemoreira1992" target="_blank" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/guilhermee.rsm" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/guilherme-rsm" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-c2506d?style=flat-square&labelColor=c2506d&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px">
