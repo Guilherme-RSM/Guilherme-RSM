@@ -15,21 +15,31 @@ Jim Ryun
 
 
 
-
-<a href="https://www.linkedin.com/in/guilherme-rsm/" target="_blank" alt="Linkedin">
+<!--LINKEDIN-->
+<a href="https://www.linkedin.com/in/guilherme-rsm/" target="_blank" alt="Link para o Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://codepen.io/guilherme-rsm" target="_blank" alt="Codepen">
+
+<!--CODEPEN-->
+  <a href="https://codepen.io/guilherme-rsm" target="_blank" alt="Link para o Codepen">
   <img src="https://img.shields.io/badge/-Codepen-000?style=flat-square&labelColor=000&logo=codepen&logoColor=white&link=LINK-DO-SEU-CODEPEN"/></a>
   
-  <a href="https://www.youtube.com/c/GuilhermeMoreira" target="_blank" alt="Youtube">
+  
+  <!--YOUTUBE-->
+  <a href="https://www.youtube.com/c/GuilhermeMoreira" target="_blank" alt="Link para o Youtube">
   <img src="https://img.shields.io/badge/-Youtube-e02b0f?style=flat-square&labelColor=e02b0f&logo=youtube&logoColor=white&link=LINK-DO-SEU-YOUTUBE"/></a>
 
-  <a href="https://www.facebook.com/guilhermemoreira1992" target="_blank" alt="Facebook">
+
+  <!--FACEBOOK-->
+  <a href="https://www.facebook.com/guilhermemoreira1992" target="_blank" alt="Link para o Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/guilherme-rsm" target="_blank" alt="Instagram">
+
+  <!--INSTAGRAM-->
+  <a href="https://www.instagram.com/guilherme.rsm" target="_blank" alt="Link para o Instagram">
   <img src="https://img.shields.io/badge/-Instagram-c2506d?style=flat-square&labelColor=c2506d&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
+
+  <!--ILUSTRAÇÃO-->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px">
 
