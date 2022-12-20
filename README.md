@@ -2,12 +2,9 @@
 
 ### Hello World 👋
 Saudações a toda a comunidade Dev.<br>
-Sou Guilherme Moreira, tenho 30 anos e a pouco tempo descobri o fascinio por esse vasto universo da programação.<br>
-Sempre achei muito interessante essa área de desenvolvimento mas nunca havia me envolvido.<br>
-Embora sempre admirei muito quem atua na área, eu nunca tinha ousado tentar aprender algo relacionado, <br>
-mas agora estou disposto a me dedicar a essa carreira.<br>
+Sou Guilherme Moreira, estudante de desenvolvimento Web Front-End. Apaixonado por Música e Tecnologia.<br>
 Sei o quanto terei que me comprometer com o constante aprendizado, mas isso é bom pois essa necessidade de se manter atualizado nos faz permanecer em constante evolução, e nos livra de ficar inertes na zona de conforto.<br>
-Atualmente tenho conhecimentos em HTML5, CSS3 e um pouco de conhecimento do Básico de JavaScript; mas irei continuar aprendendo e praticando dia após dia e na medida que for assimilando e 
+Atualmente tenho conhecimentos em HTML5, CSS3, Prototipagem de Interfaces com Figma e um pouco de conhecimento do Básico de JavaScript; mas irei continuar aprendendo e praticando dia após dia e na medida que for assimilando e 
 fixando o conhecimento pretendo partir para novas tecnologias.
 
 “Motivação é aquilo que te faz começar. Hábito é aquilo que te faz continuar.”
